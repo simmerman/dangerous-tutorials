@@ -37,3 +37,28 @@ Here are the details for the above steps:
 
 Ok, you're almost there…
 
+Now start up Virtual Box (there should be a shortcut on your desktop from the installation).  It should look like this:
+
+(screenshot)
+
+We need to tweak one setting regarding the network. Click on ‘Network’ and select ‘NAT’; then ‘OK’:
+
+(screenshot)
+
+Then click 'Start' to boot up the virtual machine:
+
+(screenshot)
+
+It will boot up Ubuntu Linux--you should see a screen like:
+
+(screenshot)
+
+Use the password given in the tutorial (in Box 2).
+
+There will be a couple of notification bars across the top—just click the ‘don’t show again’ buttons to get rid of them.  Now your Ubuntu desktop should look like:
+
+(screenshot)
+
+For shutting down the vm, the menu is in the upper right:
+
+(screenshot)
