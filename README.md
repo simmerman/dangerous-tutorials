@@ -21,12 +21,12 @@ Then, voila!, you'll have a Linux 'virtual machine' running inside of your Windo
 Here are the details for the above steps:
 
   1. Download and install VirtualBox (it's free)
-  Go to: https://www.virtualbox.org/wiki/Downloads
-
-  and click on 'Windows hosts' near the top of the page.  This should start downloading as soon as you click it. (Mine took about 1 minute.)  Download should show up at the bottom of your browser--click on it to start its installation wizard.
+  Go to: https://www.virtualbox.org/wiki/Downloads and click on 'Windows hosts' near the top of the page.  This should start downloading as soon as you click it. (Mine took about 1 minute.)  Download should show up at the bottom of your browser--click on it to start its installation wizard.
   It may ask a few questions:
+
     - something about disconnecting you from the network--that's fine
     - may be a popup asking 'are you sure you want to install'--click 'yes'
+  
   Install should only take a few seconds.
 
   2. Download a virtual machine 'image' (provided by the tutorial, also free)
