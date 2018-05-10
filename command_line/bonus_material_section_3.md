@@ -52,13 +52,13 @@ Then the ping process in the other terminal should terminate.
 
 Every file is of a particular type.  Most of the files we've dealt with so far are called plain-text files, that is, normal ASCII characters. Files that are not plain-text are usually called binary files and come in all kinds of formats.  Usually you can tell the format by looking at the file extension, for example `.png` or `.pdf`.  Command line tools like `less` and `cat` and `wc` are not of much use when dealing with binary files.  This little exercise will show you some useful commands for some file detective work.
 
-Download the `file forensics.tar` file from this repo.  This file is a *tar file*, as you can tell from the handy extension `.tar`.  A tar file is similar to a zip file--a bunch of files and/or directories have been packaged up and compressed into a single file.  Do this command to *untar* the file:
+Download the `file_forensics.tar` file from this repo.  This file is a *tar file*, as you can tell from the handy extension `.tar`.  A tar file is similar to a zip file--a bunch of files and/or directories have been packaged up and compressed into a single file.  Do this command to *untar* the file:
 
 ```
   > tar -xvf file_forensics.tar
 ```
 
-Now you should have a directory called file_forensics with several different files in it.
+Now you should have a directory called `file_forensics` with several different files in it.
 
 Use the `cd` command to move into this directory (you'll learn about navigating directories in section 4):
 
